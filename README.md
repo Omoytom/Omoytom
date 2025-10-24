@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Omoyola David</h1>
 
 <p align="center">
-  <b>AI • Data Science • Finance • Research • Machine Learning • AI</b><br>
+  <b>AI • Data Science • Finance • Research • Machine Learning • Deep Learning</b><br>
   Passionate about building intelligent systems that bridge technology and finance.
 </p>
 
