@@ -57,9 +57,7 @@
 </p>
 
 ---
-https://holopin.io/@omoytom
 
----
 
 ### 🌍 Connect With Me
 
