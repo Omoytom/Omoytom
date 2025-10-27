@@ -57,6 +57,9 @@
 </p>
 
 ---
+[![An image of @omoytom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omoytom)](https://holopin.io/@omoytom)
+
+---
 
 ### 🌍 Connect With Me
 
